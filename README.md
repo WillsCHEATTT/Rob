@@ -1,10 +1,13 @@
 # Meet ROB
-ROB is my computers name here in this repo lies all my configs for my computer .bashrc, .vimrc, and such. Here is my system specs.
+ROB is my computers name here in this repo lies all my configs for my computer .bashrc, .vimrc, and such. Here is a simplifed version of my system specs.
 
 ```
-.
-.
-CPU: Intel
+Motherboard: HP 85EF
+Memory: 8.00 GB -1MHz
+BIOS: Insyde F.13
+CPU: Intel Core i3-8155U 2.10GHz
+Battery: HT03041
+Laptop Model: HP 15-dw0xxx
 Window Manager: I3-GAPS
 Kernel version: Linux kernel 5.7
 Operation System: Ubuntu x64
@@ -28,4 +31,25 @@ Operation System: Ubuntu x64
 4. [Credits](#credits)
 
 ## CLIC <a name="introduction"></a>
- **CLIC** (Command Line Interface Calculator) is just as the acronym sudjests a command line tool that allows for simple and complacated calculations straight from your terminal / command prompt.
+*Insert introduction*
+
+## Specs <a name="specs"></a>
+*insert description*
+
+### Graphic Card <a name="graphic_card"></a>
+*insert info*
+
+### Storage <a name="storage"></a>
+*insert info*
+
+### GPU <a name="gpu"></a>
+*insert info*
+
+### CPU <a name="cpu"></a>
+*insert info*
+
+### OS <a name="operating_system"></a>
+*insert info*
+
+### Window Manager <a name="window_manager"></a>
+*insert info*
