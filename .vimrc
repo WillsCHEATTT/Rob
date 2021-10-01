@@ -44,6 +44,7 @@ Plug 'sainnhe/sonokai'
 Plug 'davidhalter/jedi-vim' " Python auto completion
 Plug 'ternjs/tern_for_vim', { 'do' : 'npm install' } " Java auto completion
 Plug 'sheerun/vim-polyglot' " Syntax higlighting
+Plug 'rust-lang/rust.vim' " Rust sytaxhighlighting along with test running a rust file 
 "Plug 'jiangmiao/auto-pairs' " Auto pairs (It works but I find it annoying.)
 
 "Just Focus
