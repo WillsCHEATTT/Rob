@@ -9,7 +9,7 @@ CPU: Intel Core i3-8155U 2.10GHz
 Battery: HT03041
 Laptop Model: HP 15-dw0xxx
 Window Manager: I3-GAPS
-Kernel version: Linux kernel 5.7
+Kernel version: Linux kernel 5.11
 Operation System: Ubuntu x64
 ```
 * All this info will be updated and more indepth later when I can get my hands on the info.
