@@ -34,7 +34,10 @@ Operation System: Ubuntu x64
 *Insert introduction*
 
 ## Specs <a name="specs"></a>
-*insert description*
+```
+sudo lshw
+
+```
 
 ### Graphic Card <a name="graphic_card"></a>
 *insert info*
@@ -46,10 +49,20 @@ Operation System: Ubuntu x64
 *insert info*
 
 ### CPU <a name="cpu"></a>
-*insert info*
+```
+lscpu
+
+
+```
 
 ### OS <a name="operating_system"></a>
-*insert info*
+```
+uname -a
+
+Linux rob-hp-laptop 5.11.0-37-generic #41-Ubuntu SMP Mon Sep 20 16:39:20 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+```
 
 ### Window Manager <a name="window_manager"></a>
-*insert info*
+I3-Gaps is the window manager I perfer to use. The config is very simple and everything can be operated by a keyboard.
+
+** Everything is this README is bound to change as soon as I can get all the info and such.
