@@ -30,7 +30,7 @@ Operation System: Ubuntu x64
 3. [Config Files](#config_files)
 4. [Credits](#credits)
 
-## CLIC <a name="introduction"></a>
+## ROB <a name="introduction"></a>
 *Insert introduction*
 
 ## Specs <a name="specs"></a>
