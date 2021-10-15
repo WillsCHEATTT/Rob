@@ -1,6 +1,8 @@
 # Meet ROB
 ROB is my computers name here in this repo lies all my configs for my computer .bashrc, .vimrc, and such. Here is a simplifed version of my system specs.
 
+## This repo is getting a massive overhall and will be more pollished after all (Most) issues and enhancements are resolved!
+
 ```
 Motherboard: HP 85EF
 Memory: 8.00 GB -1MHz
