@@ -55,7 +55,7 @@
 
 <!-- ABOUT ROB -->
 ## About Rob <a name="about-rob"></a>
-Rob is the split version of Robert, Rob is the nicname to my current laptops configs. Here in this repo lies all the configs for my computer. Everything from .bashrc, .zshrc, .vimrc, i3config you name it! You may be wondering why I refer to bert as another thing... Well because it is Rob is my current HP Laptop, Bert is going to be the name of my next laptop! Rob will stay around for a long time though, I plan on keeping this repo alive and updated. If you like Rob support him by staring this repo! Every star cheers up little Rob's motherboard!
+The uncreative name Rob comes from my middle name Robert. Rob is the nickname to my current laptop, to be more specific my laptop configs. Here in this repo lies all the configs for my computer. Everything from .bashrc, .zshrc, .vimrc, i3config you name it! You may be wondering why I refer to bert as another thing... Well because it is. Rob is my current HP Laptop, Bert will be the name of my next laptop *granted this will not happen anytime soon, Rob works just fine*! Rob will stay around for a long time though, I plan on keeping this repo alive and updated. If you like Rob support him by staring this repo! Every star cheers up little Rob's motherboard!
 
 <!-- BUILT WITH -->
 ### Build With <a name="built-with"></a>
