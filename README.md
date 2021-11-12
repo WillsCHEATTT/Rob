@@ -11,7 +11,7 @@
 <h3 align="center">Rob</h3>
 
   <p align="center">
-    The first computer config in a 2 part trilogy! <sub>bert will strike soon</sub>
+    The first computer config in a 2 part trilogy! <sub>bert will be a thing someday</sub>
     <br />
     <a href="https://github.com/ZackeryRSmith/Rob/"><strong>Explore robs docs! »</strong></a>
     <br />
