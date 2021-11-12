@@ -1,3 +1,62 @@
+<!-- TOP OF README ANCHOR -->
+<a name="top"></a>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ZackeryRSmith/Rob/">
+    <img src="https://github.com/ZackeryRSmith/rob/blob/main/assets/images/ROBert.jpg" alt="Rob logo" width="180" height="180">
+  </a>
+
+<h3 align="center">Rob</h3>
+
+  <p align="center">
+    The first computer config in a 2 part trilogy! <sub>bert will strike soon</sub>
+    <br />
+    <a href="https://github.com/ZackeryRSmith/Rob/"><strong>Explore robs docs! »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ZackeryRSmith/Rob/">View Images</a>
+    ·
+    <a href="https://github.com/ZackeryRSmith/Rob/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ZackeryRSmith/Rob/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-rob">About Rob</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#installation">Installation</a>
+      <ul>
+        <lu><a href="#manual-installation">Manual Installation</a></li>
+            <li><a href="#prerequisites">Prerequisites</a></li>
+            <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+
+
 # Meet ROB
 ROB is my computers name here in this repo lies all my configs for my computer .bashrc, .vimrc, and such. Here is a simplifed version of my system specs.
 
