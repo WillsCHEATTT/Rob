@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ZackeryRSmith/Rob/">
-    <img src="https://github.com/ZackeryRSmith/Rob/blob/main/images/ROBert.jpg" alt="Rob logo" width="360" height="210">
+    <img src="https://github.com/ZackeryRSmith/Rob/blob/main/images/ROBert.jpg" alt="Rob logo" width="360" height="180">
   </a>
 
 <h3 align="center">Rob</h3>
