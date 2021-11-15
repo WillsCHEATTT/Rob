@@ -61,13 +61,13 @@ The uncreative name Rob comes from my middle name Robert. Rob is the nickname to
 ### Build With <a name="built-with"></a>
 Rob has many components, so many infact I wouldn't be able to list them all. What I can do is list the major ones, the stuff Rob can't live without! If you would like to look at all of Robs components do so after all the configs are public!
 
-- [I3-WM]()
-- [I3-Gaps]()
-- [Bumblebee Status Bar]()
-- [DejaVu Sans Mono for Powerline]()
-- [Font Awesome]()
-- [Devicons]()
-- [OhMyZsh!]()
+- [I3-WM](https://github.com/i3/i3)
+- [I3-Gaps](https://github.com/Airblader/i3)
+- [Bumblebee Status Bar](https://github.com/tobi-wan-kenobi/bumblebee-status)
+- [DejaVu Sans Mono for Powerline](https://github.com/powerline/fonts/tree/master/DejaVuSansMono)
+- [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+- [Devicons](https://github.com/devicons/devicon)
+- [OhMyZsh!](https://github.com/ohmyzsh/ohmyzsh)
 
 ## This repo is getting a massive overhall and will be more pollished after all (Most) issues and enhancements are resolved!
 
