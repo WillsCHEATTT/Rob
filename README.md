@@ -41,8 +41,10 @@
       <a href="#installation">Installation</a>
       <ul>
         <lu><a href="#manual-installation">Manual Installation</a></li>
-            <li><a href="#prerequisites">Prerequisites</a></li>
-            <li><a href="#installation">Installation</a></li>
+        <ul>
+          <li><a href="#prerequisites">Prerequisites</a></li>
+          <li><a href="#installation">Installation</a></li>
+        </ul>  
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
