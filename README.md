@@ -99,9 +99,9 @@ Installing Rob can be easy with the use of QCBuilder. Only thing is QCBuilder on
 test
 
 ##### Fonts
-Rob requires a few fonts to make it look the way it does. These fonts can be found in [/fonts/](https://github.com/ZackeryRSmith/Rob/tree/main/fonts), you can download and install them manualy or use [FontManager](https://github.com/FontManager/font-manager) and [git](https://git-scm.com/) to install them.
+Rob requires a few fonts to make it look the way it does. These fonts can be found in [/fonts/](https://github.com/ZackeryRSmith/Rob/tree/main/fonts), you can download and install them manualy or use [FontManager](https://github.com/FontManager/font-manager) and [svn](https://subversion.apache.org/packages.html#centos) to install them.
 
-###### Fontmanager and Git
+###### Fontmanager + SVN
 ```sh
 echo "Hello"
 ```
