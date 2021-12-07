@@ -99,9 +99,12 @@ Installing Rob can be easy with the use of QCBuilder. Only thing is QCBuilder on
 test
 
 ##### Fonts
-Rob requires a few fonts to make it look the way it does. These fonts can be found in [/fonts/](https://github.com/ZackeryRSmith/Rob/tree/main/fonts), you can download and install them manualy or use [FontManager](https://github.com/FontManager/font-manager) and [svn](https://subversion.apache.org/packages.html#centos) to install them.
+Rob requires a few fonts to make it look the way it does. These fonts can be found in [/fonts/](https://github.com/ZackeryRSmith/Rob/tree/main/fonts), you can download and install them manualy or use [FontManager](https://github.com/FontManager/font-manager) and [svn](https://subversion.apache.org/packages.html#centos) to install them. Below is a convenient little command for installing up-to-date fonts! 
 
 ###### Fontmanager + SVN
+<!-- OLD COMMAND -->
+<!-- mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/Rob/trunk/fonts/ && mv  -v fonts/* . && rm -rf fonts/ && font-manager -i DejaVu\ Sans\ Mono\ for\ Powerline.ttf devicons-regular.ttf fontawesome-regular.ttf octicons-regular.ttf pomicons-regular.ttf programming-languages.ttf System\ San\ Francisco\ Display\ Bold.ttf System\ San\ Francisco\ Display\ Regular.ttf System\ San\ Francisco\ Display\ Thin.ttf System\ San\ Francisco\ Display\ Ultralight.ttf && cd .. && rm -rf rob-temp -->
+
 ```sh
-mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/Rob/trunk/fonts/ && mv  -v fonts/* . && rm -rf fonts/ && font-manager -i DejaVu\ Sans\ Mono\ for\ Powerline.ttf devicons-regular.ttf fontawesome-regular.ttf octicons-regular.ttf pomicons-regular.ttf programming-languages.ttf System\ San\ Francisco\ Display\ Bold.ttf System\ San\ Francisco\ Display\ Regular.ttf System\ San\ Francisco\ Display\ Thin.ttf System\ San\ Francisco\ Display\ Ultralight.ttf && cd .. && rm -rf rob-temp
+mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/Rob/trunk/fonts/ && mv  -v fonts/* . && rm -rf fonts/ && font-manager -i * && cd .. && rm -rf rob-temp
 ```
