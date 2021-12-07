@@ -1,5 +1,5 @@
 <div align="center">
-  This repo is getting a massive overhall and will be more polished after all (Most) issues and enhancements are resolved!
+  This repo is getting a overhall and will be more polished after all (Most) issues and enhancements are resolved!
 </div>
 <!-- TOP OF README ANCHOR -->
 <a name="top"></a>
