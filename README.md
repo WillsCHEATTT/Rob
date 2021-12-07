@@ -106,5 +106,5 @@ Rob requires a few fonts to make it look the way it does. These fonts can be fou
 <!-- mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/Rob/trunk/fonts/ && mv  -v fonts/* . && rm -rf fonts/ && font-manager -i DejaVu\ Sans\ Mono\ for\ Powerline.ttf devicons-regular.ttf fontawesome-regular.ttf octicons-regular.ttf pomicons-regular.ttf programming-languages.ttf System\ San\ Francisco\ Display\ Bold.ttf System\ San\ Francisco\ Display\ Regular.ttf System\ San\ Francisco\ Display\ Thin.ttf System\ San\ Francisco\ Display\ Ultralight.ttf && cd .. && rm -rf rob-temp -->
 
 ```sh
-mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/Rob/trunk/fonts/ && mv  -v fonts/* . && rm -rf fonts/ && font-manager -i * && cd .. && rm -rf rob-temp
+mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/Rob/trunk/fonts/ && mv -v fonts/* . && rm -rf fonts/ && font-manager -i * && cd .. && rm -rf rob-temp
 ```
