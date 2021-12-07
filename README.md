@@ -1,3 +1,6 @@
+<div align="center">
+  This repo is getting a massive overhall and will be more polished after all (Most) issues and enhancements are resolved!
+</div>
 <!-- TOP OF README ANCHOR -->
 <a name="top"></a>
 
@@ -43,7 +46,7 @@
         <lu><a href="#manual-installation">Manual Installation</a></li>
         <ul>
           <li><a href="#prerequisites">Prerequisites</a></li>
-          <li><a href="#installation">Installation</a></li>
+          <li><a href="#manual-install-guide">Install Guide</a></li>
         </ul>  
       </ul>
     </li>
@@ -72,8 +75,6 @@ Rob has many components, so many infact I wouldn't be able to list them all. Wha
 - [Devicons](https://github.com/devicons/devicon)
 - [OhMyZsh!](https://github.com/ohmyzsh/ohmyzsh)
 
-## This repo is getting a massive overhall and will be more pollished after all (Most) issues and enhancements are resolved!
-
 <!-- SYSTEM INFO -->
 ### System Info <a name="system-info"></a>
 ```
@@ -89,4 +90,18 @@ Operation System: Ubuntu x64
 ```
 
 ### Installation <a name="installation"></a>
-So, you want to install Rob, well I don't blame you rob is a pretty cool looking dude! There are two ways to install Rob, one way is using **QCBuilder**. QCBuilder will install and setup ROb on your ubuntu 20.04LTS install! Another way would be the manual way, the manual way is the best way to install Rob on operating systems other then ubuntu. Don't worry even the manual install is easy and you will be walked step by step!
+So, you want to install Rob, well I don't blame you rob is a pretty cool looking dude! There are two ways to install Rob, one way is using **QCBuilder**. QCBuilder will install and setup Rob on your ubuntu 20.04LTS install! Another way would be the manual way, the manual way is the best way to install Rob on operating systems other then ubuntu. Don't worry even the manual install is easy and you will be walked step by step!
+
+#### Manual Installation <a name="manual-installation"></a>
+Installing Rob can be easy with the use of QCBuilder. Only thing is QCBuilder only works on ubuntu 20.04 LTS :(. Do not fret! Rob does support all other systems that also support i3WM! With that in mind lets hop into the manual install.
+
+##### Prerequisites <a name="prerequisites"></a>
+test
+
+##### Fonts
+Rob requires a few fonts to make it look the way it does. These fonts can be found in [/fonts/](), you can download and install them manualy or use [FontManager]() and [git]() to install them.
+
+###### Fontmanager and Git
+```sh
+echo "Hello"
+```
