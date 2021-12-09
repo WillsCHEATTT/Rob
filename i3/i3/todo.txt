@@ -1,3 +1,0 @@
-Make better looking Rofi menu.
-Make & clean workspaces
-!! MOST IMPORTANT !! Follow WillsCHEATTT on github!
