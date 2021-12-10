@@ -50,7 +50,7 @@
         </ul>  
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -136,6 +136,22 @@ mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/R
 ## Screenshots <a name="screenshots"></a>
 Still not sold on Rob? Well here are some screenshots ([Flameshot]()) and gifs ([OBS]()) that will seal the deal!
 
+### Vim
+For you IDE enthusiasts here is my Vim setup!
+
+#### Python
+Here is what python looks and runs like in my Vim setup!
+
+##### Highlighting
+
+##### Autocompletion
+
+#### Rust
+
+##### Highlighting
+
+##### Autocompletion
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -152,7 +168,6 @@ See the [roadmap](https://github.com/ZackeryRSmith/Rob/projects) or [open issues
 
 <!-- CONTRIBUTING -->
 ## Contributing <a name="contributing"></a>
-
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -172,7 +187,6 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## License <a name="license"></a>
-
 Distributed under the GNU GPL3 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -181,7 +195,6 @@ Distributed under the GNU GPL3 License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact <a name="contact"></a>
-
 Zackery .R. Smith - zackery.smith82307@gmail.com
 
 Project Link: [https://github.com/ZackeryRSmith/Rob](https://github.com/ZackeryRSmith/Rob)
