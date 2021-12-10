@@ -143,7 +143,8 @@ For you IDE enthusiasts here is my Vim setup!
 Here is what python looks and runs like in my Vim setup!
 
 ##### Highlighting
-![](https://github.com/ZackeryRSmith/Rob/blob/main/md-assets/vimPythonHighlighting.gif)
+![](https://github.com/ZackeryRSmith/Rob/blob/main/md-assets/vimPythonHighlighting1.gif)
+![](https://github.com/ZackeryRSmith/Rob/blob/main/md-assets/vimPythonHighlighting2.png)
 
 ##### Autocompletion
 ![](https://github.com/ZackeryRSmith/Rob/blob/main/md-assets/vimPythonAutocomplete1.gif)
@@ -152,7 +153,7 @@ Here is what python looks and runs like in my Vim setup!
 Here is what Rust looks and runs like in my Vim setup!
 
 ##### Highlighting
-![](https://github.com/ZackeryRSmith/Rob/blob/main/md-assets/vimRustHighlighting.gif)
+![](https://github.com/ZackeryRSmith/Rob/blob/main/md-assets/vimRustHighlighting1.gif)
 
 ##### Autocompletion
 ![](https://github.com/ZackeryRSmith/Rob/blob/main/md-assets/vimRustAutocomplete1.gif)
