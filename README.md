@@ -131,3 +131,76 @@ Rob requires a few fonts to make it look the way it does. These fonts can be fou
 ```sh
 mkdir rob-temp && cd rob-temp && svn checkout https://github.com/ZackeryRSmith/Rob/trunk/fonts/ && mv -v fonts/* . && rm -rf fonts/ && font-manager -i * && cd .. && rm -rf rob-temp
 ```
+
+<!-- SCREENSHOTS -->
+## Screenshots <a name="screenshots"></a>
+Still not sold on Rob? Well here are some screenshots ([Flameshot]()) and gifs ([OBS]()) that will seal the deal!
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap <a name="roadmap"></a>
+
+
+See the [roadmap](https://github.com/ZackeryRSmith/Rob/projects) or [open issues](https://github.com/ZackeryRSmith/Rob/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing <a name="contributing"></a>
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<sub>I do recomend having a *basic* understanding of the git command!</sub>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License <a name="license"></a>
+
+Distributed under the GNU GPL3 License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact <a name="contact"></a>
+
+Zackery .R. Smith - zackery.smith82307@gmail.com
+
+Project Link: [https://github.com/ZackeryRSmith/Rob](https://github.com/ZackeryRSmith/Rob)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments <a name="acknowledgments"></a>
+
+* []()
+* []()
+* []()
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- SUPPORT -->
+## Show Your Support <a name="support"></a>
+Hey I'm glad you want to help me out. If you want all I ask is you star this project and share it with someone you think would like to check it out! Other then that you can drop a follow on my github all these things are more important to me then cash!
