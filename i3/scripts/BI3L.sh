@@ -1,4 +1,3 @@
-#!/bin/bash
 ICON=$HOME/.config/i3/images/icon.png
 TMPBG=/tmp/screen.png
 scrot /tmp/screen.png
