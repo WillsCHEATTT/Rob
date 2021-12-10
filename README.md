@@ -96,7 +96,30 @@ So, you want to install Rob, well I don't blame you rob is a pretty cool looking
 Installing Rob can be easy with the use of QCBuilder. Only thing is QCBuilder only works on ubuntu 20.04 LTS :(. Do not fret! Rob does support all other systems that also support i3WM! With that in mind lets hop into the manual install.
 
 ##### Prerequisites <a name="prerequisites"></a>
-test
+These are the things Rob **MUST** have. You can skip some things like font's and i3-gaps but I recomend getting them for the best Rob experience!
+
+### I need to finish all of these. Thing is I deleted my readme, and I cannot revert the commit history. These will be done after I cry over my losses
+
+##### I3WM
+pass
+
+##### I3-Gaps
+pass
+
+##### Bumblebee Status Bar
+pass
+
+##### Zsh (Z-shell)
+pass
+
+#### OhMyZsh!
+pass
+
+#### Terminator
+pass
+
+#### Packages
+pass
 
 ##### Fonts
 Rob requires a few fonts to make it look the way it does. These fonts can be found in [/fonts/](https://github.com/ZackeryRSmith/Rob/tree/main/fonts), you can download and install them manualy or use [FontManager](https://github.com/FontManager/font-manager) and [svn](https://subversion.apache.org/packages.html#centos) to install them. Below is a convenient little command for installing up-to-date fonts! 
