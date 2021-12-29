@@ -16,10 +16,10 @@
   <p align="center">
     The first computer config in a 2 part trilogy! <sub>bert will be a thing someday</sub>
     <br />
-    <a href="https://github.com/ZackeryRSmith/Rob/"><strong>Explore robs docs! »</strong></a>
+    <a href="https://github.com/ZackeryRSmith/Rob#installation"><strong>Install »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ZackeryRSmith/Rob/">View Images</a>
+    <a href="https://github.com/ZackeryRSmith/Rob/#screenshots">View Images</a>
     ·
     <a href="https://github.com/ZackeryRSmith/Rob/issues">Report Bug</a>
     ·
