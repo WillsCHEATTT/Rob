@@ -16,7 +16,7 @@
   <p align="center">
     The first computer config in a 2 part trilogy!
     <br />
-    <a href="https://github.com/ZackeryRSmith/Rob#installation"><strong>Install »</strong></a>
+    <a href="https://github.com/ZackeryRSmith/Rob#installation"><strong>Install Instructions »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ZackeryRSmith/Rob/#screenshots">View Images</a>
