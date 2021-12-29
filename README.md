@@ -86,7 +86,7 @@ Battery: HT03041
 Laptop Model: HP 15-dw0xxx
 Window Manager: I3-GAPS
 Kernel version: Linux kernel 5.11
-Operation System: Ubuntu x64
+Operation System: Ubuntu x64 (I use arch in a VM. Hp has some issues when running Arch bare metal)
 ```
 
 ### Installation <a name="installation"></a>
