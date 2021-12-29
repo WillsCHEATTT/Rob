@@ -90,7 +90,7 @@ Operation System: Ubuntu x64 (I use arch in a VM. Hp has some issues when runnin
 ```
 
 ### Installation <a name="installation"></a>
-So, you want to install Rob, well I don't blame you rob is a pretty cool looking dude! There are two ways to install Rob, one way is using **QCBuilder**. QCBuilder will install and setup Rob on your ubuntu 20.04LTS install! Another way would be the manual way, the manual way is the best way to install Rob on operating systems other then ubuntu. Don't worry even the manual install is easy and you will be walked step by step!
+So, you want to install Rob, well I don't blame you rob is a pretty cool looking dude! There are two ways to install Rob, one way is using [**QCBuilder**](https://github.com/ZackeryRSmith/QCBuilder). QCBuilder will install and setup Rob on your ubuntu 20.04LTS install! Another way would be the manual way, the manual way is the best way to install Rob on operating systems other then ubuntu. Don't worry even the manual install is easy and you will be walked step by step!
 
 #### Manual Installation <a name="manual-installation"></a>
 Installing Rob can be easy with the use of QCBuilder. Only thing is QCBuilder only works on ubuntu 20.04 LTS :(. Do not fret! Rob does support all other systems that also support i3WM! With that in mind lets hop into the manual install.
