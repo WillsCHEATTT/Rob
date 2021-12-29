@@ -14,7 +14,7 @@
 <h3 align="center">Rob</h3>
 
   <p align="center">
-    The first computer config in a 2 part trilogy! <sub>bert will be a thing someday</sub>
+    The first computer config in a 2 part trilogy!
     <br />
     <a href="https://github.com/ZackeryRSmith/Rob#installation"><strong>Install »</strong></a>
     <br />
